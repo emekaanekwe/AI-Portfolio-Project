@@ -1,0 +1,8 @@
+1. Frame the problem clearly
+2. Create success metrics
+3. Create systematic tracking for prompt engineering
+4. Correct model selection and evaluation
+5. RAG, 6. Agent systems
+7. System monitoring and error analysis
+8. Deployment and UI
+9. Fine-Tune
