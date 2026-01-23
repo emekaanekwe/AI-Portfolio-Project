@@ -2,7 +2,22 @@
 2. Create success metrics
 3. Create systematic tracking for prompt engineering
 4. Correct model selection and evaluation
-5. RAG, 6. Agent systems
+5. RAG, 
+    - chunking 
+        a. break up docs into chunks (depends on use case)
+        b. measure retrieval accuracy (speed for correct retrieval)
+        c. 
+    - embedding
+        a. how the layers are going to be set up
+        b. finding the right storage software
+    - retrieval
+        a. create a search algo that can retreive the embeddings
+        b. find ways to optimize (re-ranking searches)
+    - evaluate your RAG
+        a. retrieval accuracy (recall@ok)
+        b. end-to-end accuracy
+6. Agent systems
+    - 
 7. System monitoring and error analysis
 8. Deployment and UI
 9. Fine-Tune
