@@ -17,7 +17,12 @@
         a. retrieval accuracy (recall@ok)
         b. end-to-end accuracy
 6. Agent systems
-    - 
+    - Kimi model (use for Claude Code)
+    - context engineering
+    - task decomposition
+        a. find the tool/agent group to use
+        b. assign roles to specific agents
+        c. ensure reporting output for each agent
 7. System monitoring and error analysis
 8. Deployment and UI
 9. Fine-Tune
